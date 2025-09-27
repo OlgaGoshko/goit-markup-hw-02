@@ -62,13 +62,16 @@ h3 {
   font-size: 18px;
   line-height: 1.2;
   color: #4d5ae5;
+  text-transform: uppercase;
 }
 
 .logo-studio {
   color: #2e2f42;
+  text-transform: uppercase;
 }
 .logo-footer {
   color: #f4f4fd;
+  text-transform: uppercase;
 }
 
 .nav-logo:active,
